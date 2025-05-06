@@ -44,11 +44,3 @@ O provedor gerencia tudo: infraestrutura, plataforma e aplicação.
 Exemplos: Gmail, Microsoft 365, Dropbox, Salesforce.
 
 Uso comum: Usuários finais que precisam de uma solução pronta para uso.
-
-Abaixo veja uns exemplo:
-Comparação visual simples:
-Modelo	Controle do Cliente	Exemplos
-IaaS	Mais controle	AWS EC2, Azure VMs
-PaaS	Médio controle	Heroku, Google App Engine
-SaaS	Menos controle	Gmail, Zoom, Trello
-
