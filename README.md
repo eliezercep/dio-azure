@@ -1,4 +1,4 @@
-# **PROJETO SOBRE Cloud com Inteligência Artificial **
+# PROJETO SOBRE Cloud com Inteligência Artificial
 **Etapa 01**
 O conteúdo do curso nos mostra a importância do Cloud, bem como suas vantagens e desvantagens.
 
